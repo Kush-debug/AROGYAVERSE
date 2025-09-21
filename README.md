@@ -41,3 +41,4 @@ If SMTP is not configured, messages are stored in memory and logged.
 
 - Single server: build frontend, run `npm start` to serve both API and static files.
 - Docker: see `Dockerfile`.
+- DEMO - https://arogyaverse.vercel.app/
